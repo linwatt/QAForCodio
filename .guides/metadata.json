@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "id": "e1a7e1c5-b99e-07b5-17d3-df05fa7c4579",
+   "title": "QA",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/QA-e1a7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b7736b36-a9d8-a695-f548-c8cf0be9cbea",
+   "title": "Calabash",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Calabash-b773.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "77a78bde-d2bd-fcf1-0879-bbe825ef53db",
+   "title": "Feature Files",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Feature-Files-77a7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1bc64c2c-1bbb-2061-88d5-4af78ac2e731",
+   "title": "Keywords: Feature and Scenario",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Keywords--Feature-and-Scenario-1bc6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c2a8a18d-3716-95e0-9e14-e63739424490",
+   "title": "Keywords: Background and Scenario Outline",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Keywords--Background-and-Scenario-Outline-c2a8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
