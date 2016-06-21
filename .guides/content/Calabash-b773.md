@@ -6,7 +6,7 @@ Calabash supports **Cucumber** (an automated testing tool designed for website t
 
 Calabash also utilizes third-party libraries called gems to communicate and/or interact with the native Android and iOS operating systems.
 
-Calabash has three distinct parts:
+Calabash has two distinct parts:
 1) **Feature Files** -  *The What*
 Where the plain English gherkin scenarios are written 
 2) **Step_definition File** - *The How*
