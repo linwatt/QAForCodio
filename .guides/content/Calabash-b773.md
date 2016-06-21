@@ -9,5 +9,6 @@ Calabash also utilizes third-party libraries called gems to communicate and/or i
 Calabash has two distinct parts:
 1) **Feature Files** -  *The What*
 Where the plain English gherkin scenarios are written 
+There should be one feature file per screen
 2) **Step_definition File** - *The How*
 Where the code is written to exercise the gherkin statements in the feature files.

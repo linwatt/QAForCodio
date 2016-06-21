@@ -4,3 +4,10 @@ This is very useful for situations when yo have a single path through the applic
 in the code. Scenario outlines reuse the same test code, but substituting different rows of example data for each test execution.
 
 ![](.guides/img/ScenarioOutline.png)
+
+![](.guides/img/ScenarioOutlineElements.png)
+
+<h2>Background Statements</h2>
+Sometimes you have a setup that repeats for most of the scenarios in a feature. Duplication is an unavoidable circumstance when writing scenarios. A way of sharing setup among all of the scenarios in a feature is to use a **Background statement**. The Background statement is performed before each of the scenarios in a feature. This guarantees that each scenario has a fresh set of data to operate upon.
+
+![](.guides/img/Backgroundstatement.png)

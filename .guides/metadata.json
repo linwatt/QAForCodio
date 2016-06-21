@@ -54,6 +54,28 @@
    "chapter": false,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "277b16d7-78d6-2473-7d78-d0daec7b7de0",
+   "title": "Patterns for Better Scenarios",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Patterns-for-Better-Scenarios-277b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ee420d8b-48d6-d549-ebf0-64662bec6a58",
+   "title": "Simple Rules for Writing Calabash Tests",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Simple-Rules-for-Writing-Calabash-Tests-ee42.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
