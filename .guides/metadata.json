@@ -1,18 +1,6 @@
 {
  "sections": [
   {
-   "id": "e1a7e1c5-b99e-07b5-17d3-df05fa7c4579",
-   "title": "QA",
-   "files": [],
-   "layout": "",
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/QA-e1a7.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "b7736b36-a9d8-a695-f548-c8cf0be9cbea",
    "title": "Calabash",
    "files": [],

@@ -25,5 +25,5 @@ Opening the command line and typing:
 query("Button")
 ```
 will find all views that contains the word "Button" in the various elements: id, class, text. The returned results will be displayed like this:
-![](.guides/img/ButtonQueryResults.png)
+![](.guides/img/FilterClassName.png)
 It found one view (the next button) and it returned some data about the button inside the curly braces. The result is a set of key, value pairs which in Ruby is called a **hash**. The button's **text** property is 'Next' (this is the visible text on the button), and its **id** is 'next_button'.
